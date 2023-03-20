@@ -1,6 +1,6 @@
 # ThaparOLX
 
-### This project provides the students of Thapar University a platform to easily interact with each other for the purpose of selling, buying and renting goods. Being from the same college makes the exchange easier and smoother. This leads to less wastage and better utilization of resources. In this system, the user will have to login/sign-up through Thapar mail-id. This will take the user to the homepage where the user can browse through various advertisements posted by different students to get the desired product at a reasonable prices. 
+### This project provides the students of Thapar University a platform to easily interact with each other for the purpose of selling, buying and renting goods. Being from the same college makes the exchange easier and smoother. This leads to less wastage and better utilization of resources. In this system, the user will have to login/sign-up through Thapar mail-id. This will take the user to the homepage where the user can browse through various advertisements posted by different students to get the desired product at reasonable prices. 
 
 # Stack Used
 
